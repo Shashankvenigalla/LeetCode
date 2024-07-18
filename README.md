@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shashankvenigalla/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shashankvenigalla/LeetCode/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
