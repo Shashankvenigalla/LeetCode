@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shashankvenigalla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2048-build-array-from-permutation](https://github.com/Shashankvenigalla/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shashankvenigalla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
