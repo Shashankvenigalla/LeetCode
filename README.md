@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shashankvenigalla/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shashankvenigalla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Shashankvenigalla/LeetCode/tree/master/1791-richest-customer-wealth) |
