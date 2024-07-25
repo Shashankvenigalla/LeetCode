@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shashankvenigalla/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Shashankvenigalla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0948-sort-an-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Shashankvenigalla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
