@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Shashankvenigalla/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shashankvenigalla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0948-sort-an-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Shashankvenigalla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shashankvenigalla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shashankvenigalla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
@@ -102,6 +105,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shashankvenigalla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -109,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -163,4 +168,8 @@
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shashankvenigalla/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
