@@ -3,7 +3,7 @@ class Solution {
         int count=0;
         int sum=0;
         for(String i: details){
-            sum=sum*10+i.charAt(11)-48;
+            sum=sum+i.charAt(11)-48;
             sum=sum*10+i.charAt(12)-48;
             if(sum>60){
                 count++;
