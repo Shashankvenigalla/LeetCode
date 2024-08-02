@@ -25,6 +25,7 @@
 | [1791-richest-customer-wealth](https://github.com/Shashankvenigalla/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Shashankvenigalla/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shashankvenigalla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Shashankvenigalla/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
