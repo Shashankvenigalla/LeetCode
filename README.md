@@ -114,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
