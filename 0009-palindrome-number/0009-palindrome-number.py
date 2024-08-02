@@ -1,5 +1,8 @@
+import math
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        x=str(x)
-        return x==x[::-1]
-        
+        x_str = str(x)
+        if x_str[::-1] != x_str:
+            return False
+        return True
