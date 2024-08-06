@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Shashankvenigalla/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shashankvenigalla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0948-sort-an-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Shashankvenigalla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shashankvenigalla/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shashankvenigalla/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
@@ -193,4 +195,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shashankvenigalla/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
