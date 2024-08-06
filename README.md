@@ -25,6 +25,7 @@
 | [1791-richest-customer-wealth](https://github.com/Shashankvenigalla/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Shashankvenigalla/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shashankvenigalla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
@@ -37,6 +38,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shashankvenigalla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
@@ -117,10 +119,12 @@
 | [0009-palindrome-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,4 +182,8 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
