@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Shashankvenigalla/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Shashankvenigalla/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankvenigalla/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shashankvenigalla/LeetCode/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shashankvenigalla/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Shashankvenigalla/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Shashankvenigalla/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -114,6 +116,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shashankvenigalla/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
