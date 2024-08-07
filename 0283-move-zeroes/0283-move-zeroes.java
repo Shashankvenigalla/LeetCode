@@ -3,7 +3,7 @@ class Solution {
         int i =0, j=0, n=nums.length, t;
         for (i=0; i<n; i++) {
             if (nums[i]!=0) {
-                if (i!=j) nums[j] = nums[i];
+                 nums[j] = nums[i];
                 j++;
             }
         }
