@@ -1,19 +1,18 @@
 class Solution {
-    public long interchangeableRectangles(int[][] rectangles) {
-      Map<Double,Long> map=new HashMap<>();
-      long count=0;
-      for(int[] num:rectangles){
-       double a=num[0];
-       double b=num[1];
-       double division =(double) a/b;
-       if(map.containsKey(division)){
-        count+=map.put(division,map.get(division)+1);
-       }else{
-       map.put(division,1L);
-       }
-      }
-      return count;
-
+    public long interchangeableRectangles(int[][] arr) {
+        HashMap<Double, Integer> map = new HashMap<>();
+        long ans = 0;
+        
+        for(int i = 0 ; i < arr.length ; i ++){
+            double v = arr[i][0]/(double)arr[i][1];
+            
+            if(map.containsKey(v)){
+                ans+=map.get(v);
+            }
+            map.put(v, map.getOrDefault(v,0)+1 );
+            // System.out.println(map);
+            
+        }
+        return ans;
     }
-
 }
