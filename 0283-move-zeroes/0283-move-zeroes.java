@@ -7,8 +7,8 @@ class Solution {
                 j++;
             }
         }
-        for (;j<n;j++) {
-            nums[j] = 0;
+         for (;j<n;j++) {
+           nums[j] = 0;
             }
     }
 }
