@@ -13,7 +13,7 @@ class Solution {
 
     public static void cyclicSort(int[] arr){
         int n = arr.length;
-        for(int i = 0; i < arr.length;){
+        for(int i = 0; i < n;){
             if(arr[i] == n){
                 i++;
             }
