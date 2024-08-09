@@ -77,6 +77,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shashankvenigalla/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shashankvenigalla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Matrix
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Shashankvenigalla/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
