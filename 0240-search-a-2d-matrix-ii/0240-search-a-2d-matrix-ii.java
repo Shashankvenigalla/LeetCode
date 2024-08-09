@@ -1,12 +1,17 @@
 class Solution {
-    public boolean searchMatrix(int[][] array2D, int target) {
-        int rows = array2D.length;
-        int cols = array2D[0].length;
-    
-        for (int i = 0; i < rows * cols; i++) {
-            int rowIndex = i / cols;
-            int colIndex = i % cols;
-            if(array2D[rowIndex][colIndex]==target)return true;  
+    public boolean searchMatrix(int[][] arr, int target) {
+        int n = arr.length, m = arr[0].length;
+        int i = 0, j = m-1;
+
+        while(i < n && j >= 0){
+            if(arr[i][j] == target) return true;
+
+            if(target < arr[i][j]){
+                j--;
+           }else{
+                i++;
+           }
         }
-    return false;}
+         return false;  
+    }
 }
