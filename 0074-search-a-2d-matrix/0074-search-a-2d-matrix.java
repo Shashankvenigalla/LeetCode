@@ -1,15 +1,25 @@
 class Solution {
-    public boolean searchMatrix(int[][] array2D, int target) {
-        int rows = array2D.length;
-        int cols = array2D[0].length;
-    
-        for (int i = 0; i < rows * cols; i++) {
-            int rowIndex = i / cols;
-            int colIndex = i % cols;
+    public boolean searchMatrix(int[][] a, int t) {
+        int m = a.length;
+        int n = a[0].length;
+        int left = 0;
+        int right = m * n - 1;
+        
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            int r = mid / n;  
+            int c = mid % n;  
+            int temp = a[r][c]; 
             
-            if(array2D[rowIndex][colIndex]==target)return true;
-
-            
+            if (t == temp) {
+                return true; 
+            } else if (t > temp) {
+                left = mid + 1;
+            } else {
+                right = mid - 1; 
+            }
         }
-    return false;}
+        
+        return false;
+}
 }
