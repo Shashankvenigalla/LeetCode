@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shashankvenigalla/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankvenigalla/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0136-single-number) |
@@ -79,6 +80,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashankvenigalla/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shashankvenigalla/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shashankvenigalla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shashankvenigalla/LeetCode/tree/master/0792-binary-search) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shashankvenigalla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Shashankvenigalla/LeetCode/tree/master/1791-richest-customer-wealth) |
