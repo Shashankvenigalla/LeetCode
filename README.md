@@ -124,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/Shashankvenigalla/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shashankvenigalla/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Shashankvenigalla/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -144,6 +145,7 @@
 | [0069-sqrtx](https://github.com/Shashankvenigalla/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
+| [0564-find-the-closest-palindrome](https://github.com/Shashankvenigalla/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Counting
