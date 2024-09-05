@@ -37,6 +37,7 @@
 | [2048-build-array-from-permutation](https://github.com/Shashankvenigalla/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2155-find-missing-observations](https://github.com/Shashankvenigalla/LeetCode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shashankvenigalla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
@@ -106,6 +107,7 @@
 | [0054-spiral-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Shashankvenigalla/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2155-find-missing-observations](https://github.com/Shashankvenigalla/LeetCode/tree/master/2155-find-missing-observations) |
 ## Graph
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Shashankvenigalla/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2155-find-missing-observations](https://github.com/Shashankvenigalla/LeetCode/tree/master/2155-find-missing-observations) |
 ## Counting
 |  |
 | ------- |
