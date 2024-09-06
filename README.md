@@ -43,6 +43,7 @@
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Shashankvenigalla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shashankvenigalla/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shashankvenigalla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -227,4 +229,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shashankvenigalla/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
