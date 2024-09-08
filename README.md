@@ -145,6 +145,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shashankvenigalla/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0189-rotate-array) |
@@ -232,5 +233,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/0002-add-two-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
