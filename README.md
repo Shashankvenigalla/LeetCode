@@ -39,6 +39,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/Shashankvenigalla/LeetCode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/Shashankvenigalla/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shashankvenigalla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Shashankvenigalla/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -98,6 +99,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shashankvenigalla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Shashankvenigalla/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2411-spiral-matrix-iv](https://github.com/Shashankvenigalla/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shashankvenigalla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
 |  |
@@ -110,6 +112,7 @@
 | [2048-build-array-from-permutation](https://github.com/Shashankvenigalla/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2155-find-missing-observations](https://github.com/Shashankvenigalla/LeetCode/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Shashankvenigalla/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Graph
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/0002-add-two-numbers) |
+| [2411-spiral-matrix-iv](https://github.com/Shashankvenigalla/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
