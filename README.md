@@ -60,16 +60,19 @@
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Shashankvenigalla/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Shashankvenigalla/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Shashankvenigalla/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Two Pointers
@@ -207,6 +210,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Shashankvenigalla/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shashankvenigalla/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
