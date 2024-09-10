@@ -22,6 +22,7 @@
 | [0503-next-greater-element-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shashankvenigalla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shashankvenigalla/LeetCode/tree/master/0792-binary-search) |
+| [0906-walking-robot-simulation](https://github.com/Shashankvenigalla/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Shashankvenigalla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Shashankvenigalla/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0906-walking-robot-simulation](https://github.com/Shashankvenigalla/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shashankvenigalla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/0054-spiral-matrix) |
+| [0906-walking-robot-simulation](https://github.com/Shashankvenigalla/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2048-build-array-from-permutation](https://github.com/Shashankvenigalla/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2155-find-missing-observations](https://github.com/Shashankvenigalla/LeetCode/tree/master/2155-find-missing-observations) |
