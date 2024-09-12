@@ -35,6 +35,7 @@
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shashankvenigalla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shashankvenigalla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shashankvenigalla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Shashankvenigalla/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Shashankvenigalla/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -56,6 +57,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shashankvenigalla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shashankvenigalla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -141,6 +143,7 @@
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/Shashankvenigalla/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shashankvenigalla/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shashankvenigalla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/Shashankvenigalla/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Shashankvenigalla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shashankvenigalla/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shashankvenigalla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Shashankvenigalla/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Divide and Conquer
 |  |
@@ -232,6 +236,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shashankvenigalla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
 | ------- |
