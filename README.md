@@ -27,6 +27,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/Shashankvenigalla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Shashankvenigalla/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Shashankvenigalla/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shashankvenigalla/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -137,6 +138,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Shashankvenigalla/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## String
 |  |
@@ -236,6 +238,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Shashankvenigalla/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shashankvenigalla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
