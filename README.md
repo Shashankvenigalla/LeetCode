@@ -143,6 +143,7 @@
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashankvenigalla/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0564-find-the-closest-palindrome](https://github.com/Shashankvenigalla/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shashankvenigalla/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shashankvenigalla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -165,6 +166,7 @@
 | [0009-palindrome-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shashankvenigalla/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashankvenigalla/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Shashankvenigalla/LeetCode/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Shashankvenigalla/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [1635-number-of-good-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -207,6 +209,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shashankvenigalla/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankvenigalla/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashankvenigalla/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/Shashankvenigalla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shashankvenigalla/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Shashankvenigalla/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -266,6 +269,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashankvenigalla/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Database
 |  |
 | ------- |
@@ -279,4 +283,8 @@
 | [1801-average-time-of-process-per-machine](https://github.com/Shashankvenigalla/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Shashankvenigalla/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shashankvenigalla/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashankvenigalla/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
