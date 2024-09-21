@@ -71,6 +71,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Shashankvenigalla/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shashankvenigalla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shashankvenigalla/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -287,4 +288,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shashankvenigalla/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
