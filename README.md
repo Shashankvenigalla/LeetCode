@@ -29,6 +29,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shashankvenigalla/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashankvenigalla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Shashankvenigalla/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Shashankvenigalla/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shashankvenigalla/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Shashankvenigalla/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -236,6 +237,7 @@
 | [0085-maximal-rectangle](https://github.com/Shashankvenigalla/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Shashankvenigalla/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashankvenigalla/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Shashankvenigalla/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shashankvenigalla/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
@@ -293,4 +295,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shashankvenigalla/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Shashankvenigalla/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
